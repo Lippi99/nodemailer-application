@@ -33,5 +33,5 @@ const sendEmail = async (sendTo: string) => {
 };
 
 //requires one argument (loremipsum@hotmail.com)
-sendEmail();
+sendEmail("loremipsum@hotmail.com");
 app.listen(process.env.api, () => console.log("Application started"));
