@@ -13,6 +13,8 @@ Hey! this is a really simple project built with NodeJS, Express and Typescript.
 4 - if you are using anothers emails services like Yahoo and Gmail for example, you have to change SMTP (Simple Mail Transfer Protocol) and change at transporterconfig variable
 host property.
 
+5 - route to use it on postman/ insomnia (http POST): http://localhost:3050/email/send
+
 SMTP's of mains services:
 
 Yahoo: https://br.ajuda.yahoo.com/kb/SLN4724.html
