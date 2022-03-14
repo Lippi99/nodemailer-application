@@ -14,6 +14,7 @@ Hey! this is a really simple project built with NodeJS, Express and Typescript.
 host property.
 
 SMTP's of mains services:
+
 Yahoo: https://br.ajuda.yahoo.com/kb/SLN4724.html
 
 Hotmail or Outlook: https://support.microsoft.com/en-us/office/pop-imap-and-smtp-settings-8361e398-8af4-4e97-b147-6c6c4ac95353
