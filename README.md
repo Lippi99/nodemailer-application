@@ -22,7 +22,3 @@ Yahoo: https://br.ajuda.yahoo.com/kb/SLN4724.html
 Hotmail or Outlook: https://support.microsoft.com/en-us/office/pop-imap-and-smtp-settings-8361e398-8af4-4e97-b147-6c6c4ac95353
 
 Gmail: https://support.google.com/a/answer/176600?hl=en
-
-# How to run the function
-1 - function requires one argument, this value is the person email you want to send
-
