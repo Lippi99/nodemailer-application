@@ -15,7 +15,7 @@ host property.
 
 5 - route to use it on postman / insomnia (http POST): http://localhost:3050/email/send
 
-6: data to send on postman / insomnia: to, subject and text text (all strings)
+6 -  data to send on postman / insomnia: to, subject and text text (all strings)
 
 SMTP's of mains services:
 
